@@ -19,6 +19,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Pages/Convertor.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udmVydG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
