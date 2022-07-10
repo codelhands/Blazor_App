@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Blazor_App
+build_property.RootNamespace = Blazor_App
+build_property.ProjectDir = /Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/elselif/Documents/GitHub/ASP.Net/Blazor_App
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Pages/ShoppingList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hvcHBpbmdMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-45zuy4dm08
+
+[/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-fwf0altydu
+
+[/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
