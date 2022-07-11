@@ -463,6 +463,102 @@
         }
       },
       {
+        "HashCode": -1802493884,
+        "Kind": "Components.Component",
+        "Name": "Blazor_App.Shared.ShoppingListLayout",
+        "AssemblyName": "Blazor_App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ShoppingListLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor_App.Shared.ShoppingListLayout"
+        }
+      },
+      {
+        "HashCode": -92701129,
+        "Kind": "Components.Component",
+        "Name": "Blazor_App.Shared.ShoppingListLayout",
+        "AssemblyName": "Blazor_App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazor_App.Shared.ShoppingListLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor_App.Shared.ShoppingListLayout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1756994535,
+        "Kind": "Components.ChildContent",
+        "Name": "Blazor_App.Shared.ShoppingListLayout.Body",
+        "AssemblyName": "Blazor_App",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "ShoppingListLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Blazor_App.Shared.ShoppingListLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -686176078,
+        "Kind": "Components.ChildContent",
+        "Name": "Blazor_App.Shared.ShoppingListLayout.Body",
+        "AssemblyName": "Blazor_App",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "Blazor_App.Shared.ShoppingListLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Blazor_App.Shared.ShoppingListLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1227587592,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
@@ -16771,6 +16867,11 @@
     {
       "FilePath": "/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Pages/FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Shared/ShoppingListLayout.razor",
+      "TargetPath": "Shared\\ShoppingListLayout.razor",
       "FileKind": "component"
     },
     {

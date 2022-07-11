@@ -43,6 +43,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0l0ZW0ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Shared/ShoppingListLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1Nob3BwaW5nTGlzdExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
