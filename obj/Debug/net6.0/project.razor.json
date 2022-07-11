@@ -12,39 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1777088504,
-        "Kind": "Components.Component",
-        "Name": "Blazor_App.Pages.Convertor",
-        "AssemblyName": "Blazor_App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Convertor"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_App.Pages.Convertor"
-        }
-      },
-      {
-        "HashCode": 444278960,
-        "Kind": "Components.Component",
-        "Name": "Blazor_App.Pages.Convertor",
-        "AssemblyName": "Blazor_App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazor_App.Pages.Convertor"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_App.Pages.Convertor",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -351838448,
         "Kind": "Components.Component",
         "Name": "Blazor_App.Pages.Counter",
@@ -177,6 +144,39 @@
         }
       },
       {
+        "HashCode": -1777088504,
+        "Kind": "Components.Component",
+        "Name": "Blazor_App.Pages.Convertor",
+        "AssemblyName": "Blazor_App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Convertor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor_App.Pages.Convertor"
+        }
+      },
+      {
+        "HashCode": 444278960,
+        "Kind": "Components.Component",
+        "Name": "Blazor_App.Pages.Convertor",
+        "AssemblyName": "Blazor_App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazor_App.Pages.Convertor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor_App.Pages.Convertor",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1684300193,
         "Kind": "Components.Component",
         "Name": "Blazor_App.App",
@@ -259,6 +259,110 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Blazor_App.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1192161536,
+        "Kind": "Components.Component",
+        "Name": "Blazor_App.Shared.Item",
+        "AssemblyName": "Blazor_App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Item"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "GroceryItem",
+            "TypeName": "Blazor_App.Data.Grocery",
+            "Metadata": {
+              "Common.PropertyName": "GroceryItem"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnGroceryPriceIncreased",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Web.MouseEventArgs>",
+            "Metadata": {
+              "Common.PropertyName": "OnGroceryPriceIncreased",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor_App.Shared.Item"
+        }
+      },
+      {
+        "HashCode": 1096020777,
+        "Kind": "Components.Component",
+        "Name": "Blazor_App.Shared.Item",
+        "AssemblyName": "Blazor_App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazor_App.Shared.Item"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "GroceryItem",
+            "TypeName": "Blazor_App.Data.Grocery",
+            "Metadata": {
+              "Common.PropertyName": "GroceryItem"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnGroceryPriceIncreased",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Web.MouseEventArgs>",
+            "Metadata": {
+              "Common.PropertyName": "OnGroceryPriceIncreased",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor_App.Shared.Item",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2121913028,
+        "Kind": "Components.Component",
+        "Name": "Blazor_App.Shared.NavMenu",
+        "AssemblyName": "Blazor_App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor_App.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -1517962438,
+        "Kind": "Components.Component",
+        "Name": "Blazor_App.Shared.NavMenu",
+        "AssemblyName": "Blazor_App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazor_App.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor_App.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -355,110 +459,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "Blazor_App.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2121913028,
-        "Kind": "Components.Component",
-        "Name": "Blazor_App.Shared.NavMenu",
-        "AssemblyName": "Blazor_App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_App.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -1517962438,
-        "Kind": "Components.Component",
-        "Name": "Blazor_App.Shared.NavMenu",
-        "AssemblyName": "Blazor_App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazor_App.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_App.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1192161536,
-        "Kind": "Components.Component",
-        "Name": "Blazor_App.Shared.Item",
-        "AssemblyName": "Blazor_App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Item"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "GroceryItem",
-            "TypeName": "Blazor_App.Data.Grocery",
-            "Metadata": {
-              "Common.PropertyName": "GroceryItem"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "OnGroceryPriceIncreased",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Web.MouseEventArgs>",
-            "Metadata": {
-              "Common.PropertyName": "OnGroceryPriceIncreased",
-              "Components.EventCallback": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_App.Shared.Item"
-        }
-      },
-      {
-        "HashCode": 1096020777,
-        "Kind": "Components.Component",
-        "Name": "Blazor_App.Shared.Item",
-        "AssemblyName": "Blazor_App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazor_App.Shared.Item"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "GroceryItem",
-            "TypeName": "Blazor_App.Data.Grocery",
-            "Metadata": {
-              "Common.PropertyName": "GroceryItem"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "OnGroceryPriceIncreased",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Web.MouseEventArgs>",
-            "Metadata": {
-              "Common.PropertyName": "OnGroceryPriceIncreased",
-              "Components.EventCallback": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_App.Shared.Item",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
