@@ -25,3 +25,4 @@
 /Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/obj/Debug/net6.0/Blazor_App.pdb
 /Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/obj/Debug/net6.0/Blazor_App.genruntimeconfig.cache
 /Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/obj/Debug/net6.0/ref/Blazor_App.dll
+/Users/elselif/Documents/GitHub/ASP.Net/Blazor_App/obj/Debug/net6.0/scopedcss/Shared/ShoppingListLayout.razor.rz.scp.css
